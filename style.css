@@ -212,6 +212,10 @@ position: relative;
   width: 100%;
 }
 
+.mobile-navi{
+ display:none;
+}
+
 
 
 /* concept */
@@ -747,6 +751,7 @@ span:nth-child(2){
 }
 
 .mobile-navi{
+  display:block;
   position: fixed;
   top: 0;
   left: -40%;
